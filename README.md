@@ -40,13 +40,13 @@
 
 <!-- Nueva Sección de Highlights Animados -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=500&color=38A169&center=true&vCenter=true&repeat=true&width=200&height=20&lines=%F0%9F%94%A5+Alto+Rendimiento;%F0%9F%9A%80+Escalabilidad;%E2%9C%A8+Optimizaci%C3%B3n"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=500&color=4A90E2&center=true&vCenter=true&repeat=true&width=200&height=20&lines=%F0%9F%94%92+Seguridad;%F0%9F%9B%A1%EF%B8%8F+Protecci%C3%B3n;%F0%9F%94%91+Encriptaci%C3%B3n"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=500&color=9F7AEA&center=true&vCenter=true&repeat=true&width=200&height=20&lines=%F0%9F%A4%96+IA+Avanzada;%F0%9F%8E%AF+Precisi%C3%B3n;%F0%9F%93%88+An%C3%A1lisis"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1000&pause=500&color=38A169&center=true&vCenter=true&repeat=true&width=200&height=20&lines=%F0%9F%94%A5+Alto+Rendimiento;%F0%9F%9A%80+Escalabilidad;%E2%9C%A8+Optimizaci%C3%B3n"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1000&pause=500&color=4A90E2&center=true&vCenter=true&repeat=true&width=200&height=20&lines=%F0%9F%94%92+Seguridad;%F0%9F%9B%A1%EF%B8%8F+Protecci%C3%B3n;%F0%9F%94%91+Encriptaci%C3%B3n"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1000&pause=500&color=9F7AEA&center=true&vCenter=true&repeat=true&width=200&height=20&lines=%F0%9F%A4%96+IA+Avanzada;%F0%9F%8E%AF+Precisi%C3%B3n;%F0%9F%93%88+An%C3%A1lisis"/>
 
-[![Website](https://img.shields.io/badge/🌐_Sitio_Web-Visitar-4A90E2?style=for-the-badge&logoColor=white)](https://axon-app.github.io/Axon.app/)
-[![GitHub](https://img.shields.io/badge/📁_Repositorio-GitHub-2D3748?style=for-the-badge&logo=github)](https://github.com/Axon-app)
-[![Email](https://img.shields.io/badge/📧_Contacto-Email-E53E3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@axon.app)
+[![Website](https://img.shields.io/badge/Sitio_Web-Visitar-4A90E2?style=for-the-badge&logo=web&logoColor=white)](https://axon-app.github.io/Axon.app/)
+[![GitHub](https://img.shields.io/badge/Repositorio-GitHub-2D3748?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Axon-app)
+[![Email](https://img.shields.io/badge/Contacto_Email-Email-E53E3E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@axon.app)
 
 </div>
 
@@ -101,11 +101,11 @@
         <img src="https://img.shields.io/badge/ROI_PROMEDIO-340%25-F6AD55?style=for-the-badge&labelColor=2D3748"/>
       </h3>
       <div style="margin: 15px 0;">
-        <img src="https://img.shields.io/badge/📈_AUMENTO_VENTAS-280%25-F6AD55?style=for-the-badge&labelColor=20232A"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/⏱️_AHORRO_TIEMPO-65%25-4A90E2?style=for-the-badge&labelColor=20232A"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/💎_REDUCCIÓN_COSTOS-45%25-38A169?style=for-the-badge&labelColor=20232A"/>
+  <img src="https://img.shields.io/badge/📈_AUMENTO_VENTAS-280%25-F6AD55?style=for-the-badge&labelColor=2D3748"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/⏱️_AHORRO_TIEMPO-65%25-4A90E2?style=for-the-badge&labelColor=2D3748"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/💎_REDUCCIÓN_COSTOS-45%25-38A169?style=for-the-badge&labelColor=2D3748"/>
       </div>
     </td>
   </tr>
@@ -116,7 +116,7 @@
 <!-- TIEMPO -->
 <div align="center">
   <h3>
-    <img alt="Tiempo Promedio" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&repeat=true&width=380&lines=TIEMPO+PROMEDIO:+45+D%C3%8DAS" />
+    <img alt="Tiempo Promedio" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&repeat=true&width=380&lines=TIEMPO+PROMEDIO:+45+D%C3%8DAS" />
   </h3>
   <img src="https://readme-components.vercel.app/api?component=linearprogress&value=90&design=candy&fill=9F7AEA&textfill=9F7AEA&label=ENTREGA%20R%C3%81PIDA&loading=false"/>
   <img src="https://readme-components.vercel.app/api?component=linearprogress&value=95&design=candy&fill=9F7AEA&textfill=9F7AEA&label=CUMPLIMIENTO&loading=false"/>
@@ -125,7 +125,7 @@
 <!-- ROI -->
 <div align="center">
   <h3>
-    <img alt="ROI Promedio" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F6AD55&center=true&vCenter=true&repeat=true&width=380&lines=ROI+PROMEDIO:+340%25" />
+    <img alt="ROI Promedio" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F6AD55&center=true&vCenter=true&repeat=true&width=380&lines=ROI+PROMEDIO:+340%25" />
   </h3>
   <img src="https://readme-components.vercel.app/api?component=linearprogress&value=280&design=candy&fill=F6AD55&textfill=F6AD55&label=AUMENTO%20VENTAS&loading=false"/>
   <img src="https://readme-components.vercel.app/api?component=linearprogress&value=65&design=candy&fill=F6AD55&textfill=F6AD55&label=AHORRO%20TIEMPO&loading=false"/>
@@ -148,12 +148,12 @@
 ### 📱 **Aplicaciones Móviles**
 > Desarrollamos apps nativas e híbridas para iOS y Android con diseño intuitivo y alto rendimiento.
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-2D3748?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
 ### 🌐 **Desarrollo Web**
 > Sitios web modernos, rápidos y escalables usando React, Vue, Node.js, Next.js y más.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-2D3748?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
 ### ⚙️ **Software a Medida**
 > Sistemas empresariales personalizados que automatizan procesos y aumentan la productividad.
@@ -382,11 +382,11 @@ Aplicamos modelos de Machine Learning y pipelines de automatización para transf
         <br/><br/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <br/>
-        <img src="https://readme-components.vercel.app/api?component=experience&skill=Node.js&duration=5&measure=years"/>
+  <img src="https://readme-components.vercel.app/api?component=experience&skill=Node&duration=5&measure=years&textfill=000000&fill=339933"/>
         <br/><br/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <br/>
-        <img src="https://readme-components.vercel.app/api?component=experience&skill=Python&duration=4&measure=years"/>
+  <img src="https://readme-components.vercel.app/api?component=experience&skill=Python&duration=4&measure=years&textfill=000000&fill=3776AB"/>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/Enterprise-Frameworks-4A90E2?style=for-the-badge&labelColor=2D3748"/>
@@ -488,26 +488,26 @@ Aplicamos modelos de Machine Learning y pipelines de automatización para transf
   <tr>
     <td align="center" width="33%">
       <a href="#" style="text-decoration: none;">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=E-Commerce&color=FF6B9D&logo=shopify&logoColor=FFFFFF&label=🛍️"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=E-Commerce&message=Casos&color=FF6B9D&logo=shopify&logoColor=FFFFFF"/>
         <br/>
-        <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=false&width=280&lines=+380%25+Incremento+Ventas" alt="Typing SVG" /></h3>
+  <h3><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=false&width=280&lines=+380%25+Incremento+Ventas" alt="Typing SVG" /></h3>
         <p>Automatización completa con IA predictiva, chatbot inteligente y sistema de recomendaciones personalizado</p>
         <img src="https://readme-components.vercel.app/api?component=linearprogress&value=95&design=candy&fill=ff6b9d&textfill=000000&label=ÉXITO&loading=false"/>
       </a>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🏥_HealthTech-App_Médica-4A90E2?style=for-the-badge&logoColor=white"/>
+  <td align="center" width="33%">
+  <img src="https://img.shields.io/badge/HealthTech-App_Medica-4A90E2?style=for-the-badge&logoColor=white"/>
       <br/>
       <h3>**75K+ Usuarios Activos**</h3>
       <p>Plataforma de telemedicina con diagnóstico por IA, historial médico digital y sistema de citas inteligente</p>
-      <img src="https://progress-bar.dev/92/?scale=100&title=Adopción&width=200&color=4a90e2"/>
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&value=92&design=candy&fill=4A90E2&textfill=000000&label=Adopción&loading=false"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/💰_FinTech-Pagos_Digitales-38A169?style=for-the-badge&logoColor=white"/>
+  <td align="center" width="33%">
+  <img src="https://img.shields.io/badge/FinTech-Pagos_Digitales-38A169?style=for-the-badge&logoColor=white"/>
       <br/>
       <h3>**$25M+ Transacciones**</h3>
       <p>Plataforma de pagos con blockchain, detección de fraudes por ML y KYC automatizado</p>
-      <img src="https://progress-bar.dev/98/?scale=100&title=Seguridad&width=200&color=38a169"/>
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&value=98&design=candy&fill=38A169&textfill=000000&label=Seguridad&loading=false"/>
     </td>
   </tr>
 </table>
@@ -610,9 +610,7 @@ graph LR
 
 *© 2024 Axon.app - Todos los derechos reservados | Hecho con ❤️ y mucho ☕*
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Axon-app.readme&color=4a90e2&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Axon-app?style=for-the-badge&color=38a169)
 ![GitHub stars](https://img.shields.io/github/stars/Axon-app?style=for-the-badge&color=f6ad55)
 
 </div>
-
