@@ -1,7 +1,17 @@
 <div align="center">
 
-<!-- Banner Hero Dinámico -->
-<img width="100%" height="350" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=350&section=header&text=AXON.APP&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32&desc=🚀%20Transformamos%20ideas%20en%20soluciones%20digitales%20inteligentes%20🤖&descAlignY=55&descSize=20"/>
+<!-- Banner Hero Dinámico con Animación -->
+<a href="https://axon-app.github.io/Axon.app/">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=gradient&customColorList=6,11,20&animation=twinkling&section=header&text=AXON.APP&desc=Transformando%20ideas%20en%20soluciones%20digitales%20inteligentes&fontSize=80&fontColor=fff&fontAlignY=35&descAlignY=50&descSize=20&stroke=ffffff&strokeWidth=2"/>
+</a>
+
+<!-- Efecto de Partículas -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:4A90E2,100:38A169&height=120&section=footer"/>
+
+<!-- Badge Dinámico de Status -->
+<a href="https://github.com/Axon-app">
+  <img src="https://img.shields.io/badge/status-online%20%7C%20available-success?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=2D3748"/>
+</a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=900&height=120&lines=💡+Desarrollo+de+Software+Empresarial;🤖+Automatización+con+Inteligencia+Artificial;⚡+Soluciones+Digitales+Escalables+y+Seguras;🌐+Tecnologías+Modernas+y+Demandadas)](https://git.io/typing-svg)
 
@@ -17,52 +27,86 @@
 
 ---
 
-## 📊 **ESTADÍSTICAS DE NUESTROS PROYECTOS**
+## 📊 **MÉTRICAS DE IMPACTO**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=120&section=header&text=MÉTRICAS%20DE%20IMPACTO&fontSize=32&fontColor=fff&animation=fadeIn"/>
+### 🎯 **Indicadores Clave**
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Proyectos_Completados-200+-38A169?style=for-the-badge&logo=checkmark&logoColor=white"/>
-      <br/>
-      <img src="https://progress-bar.dev/95/?scale=100&title=Tasa%20de%20Éxito&width=180&color=38a169"/>
-      <br/>
-      <strong>📱 Apps Móviles: 85+</strong><br/>
-      <strong>🌐 Sitios Web: 75+</strong><br/>
-      <strong>🤖 Automatizaciones IA: 40+</strong>
+      <h3>
+        <img src="https://img.shields.io/badge/PROYECTOS-200+-38A169?style=for-the-badge&labelColor=2D3748&scale=2"/>
+      </h3>
+      <div style="margin: 15px 0;">
+        <img src="https://img.shields.io/badge/📱_APPS_MÓVILES-85+-4A90E2?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/🌐_SITIOS_WEB-75+-38A169?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/🤖_IA_AUTOMATION-40+-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
+      </div>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Satisfacción_Cliente-98.5%25-4A90E2?style=for-the-badge&logo=heart&logoColor=white"/>
-      <br/>
-      <img src="https://progress-bar.dev/98/?scale=100&title=Satisfacción&width=180&color=4a90e2"/>
-      <br/>
-      <strong>⭐ Rating Promedio: 4.9/5</strong><br/>
-      <strong>🔄 Clientes Recurrentes: 85%</strong><br/>
-      <strong>📈 Recomendaciones: 92%</strong>
+      <h3>
+        <img src="https://img.shields.io/badge/SATISFACCIÓN-98.5%25-4A90E2?style=for-the-badge&labelColor=2D3748"/>
+      </h3>
+      <div style="margin: 15px 0;">
+        <img src="https://img.shields.io/badge/⭐️_RATING-4.9%2F5-FFD700?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/🔄_RECURRENCIA-85%25-4A90E2?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/👍_RECOMENDACIÓN-92%25-38A169?style=for-the-badge&labelColor=2D3748"/>
+      </div>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Tiempo_Promedio-45%20días-9F7AEA?style=for-the-badge&logo=clock&logoColor=white"/>
-      <br/>
-      <img src="https://progress-bar.dev/88/?scale=100&title=Eficiencia&width=180&color=9f7aea"/>
-      <br/>
-      <strong>⚡ Entrega Rápida: 90%</strong><br/>
-      <strong>🎯 A Tiempo: 95%</strong><br/>
-      <strong>💰 Dentro Presupuesto: 92%</strong>
+      <h3>
+        <img src="https://img.shields.io/badge/TIEMPO_MEDIO-45_DÍAS-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
+      </h3>
+      <div style="margin: 15px 0;">
+        <img src="https://img.shields.io/badge/⚡️_ENTREGA_RÁPIDA-90%25-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/🎯_EN_TIEMPO-95%25-38A169?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/💰_EN_PRESUPUESTO-92%25-4A90E2?style=for-the-badge&labelColor=2D3748"/>
+      </div>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/ROI_Promedio-340%25-F6AD55?style=for-the-badge&logo=trending-up&logoColor=black"/>
-      <br/>
-      <img src="https://progress-bar.dev/100/?scale=100&title=ROI&width=180&color=f6ad55"/>
-      <br/>
-      <strong>💹 Aumento Ventas: +280%</strong><br/>
-      <strong>⏱️ Ahorro Tiempo: 65%</strong><br/>
-      <strong>💸 Reducción Costos: 45%</strong>
+      <h3>
+        <img src="https://img.shields.io/badge/ROI_PROMEDIO-340%25-F6AD55?style=for-the-badge&labelColor=2D3748"/>
+      </h3>
+      <div style="margin: 15px 0;">
+        <img src="https://img.shields.io/badge/📈_AUMENTO_VENTAS-280%25-F6AD55?style=for-the-badge&labelColor=20232A"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/⏱️_AHORRO_TIEMPO-65%25-4A90E2?style=for-the-badge&labelColor=20232A"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/💎_REDUCCIÓN_COSTOS-45%25-38A169?style=for-the-badge&labelColor=20232A"/>
+      </div>
     </td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=3"/>
+
+<!-- TIEMPO -->
+<div align="center">
+  <h3>
+    <img alt="Tiempo Promedio" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=9F7AEA&center=true&vCenter=true&repeat=true&width=380&lines=TIEMPO+PROMEDIO:+45+D%C3%8DAS" />
+  </h3>
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&value=90&design=candy&fill=9F7AEA&textfill=9F7AEA&label=ENTREGA%20R%C3%81PIDA&loading=false"/>
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&value=95&design=candy&fill=9F7AEA&textfill=9F7AEA&label=CUMPLIMIENTO&loading=false"/>
+</div>
+
+<!-- ROI -->
+<div align="center">
+  <h3>
+    <img alt="ROI Promedio" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F6AD55&center=true&vCenter=true&repeat=true&width=380&lines=ROI+PROMEDIO:+340%25" />
+  </h3>
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&value=280&design=candy&fill=F6AD55&textfill=F6AD55&label=AUMENTO%20VENTAS&loading=false"/>
+  <img src="https://readme-components.vercel.app/api?component=linearprogress&value=65&design=candy&fill=F6AD55&textfill=F6AD55&label=AHORRO%20TIEMPO&loading=false"/>
+</div>
+
+</div>
 
 </div>
 
@@ -106,6 +150,7 @@
 
 ---
 
+
 ## 🤖 **AUTOMATIZACIÓN DE PROCESOS EMPRESARIALES CON IA**
 
 <div align="center">
@@ -114,38 +159,65 @@
 
 </div>
 
-### 🧠 **Integración de IA**
-Incorporamos inteligencia artificial para automatizar tareas y mejorar decisiones empresariales.
+### 🧠 **Integración de IA — Soluciones con impacto medible**
+Aplicamos modelos de Machine Learning y pipelines de automatización para transformar procesos operativos en ventajas competitivas. A continuación verás indicadores clave (badges fiables) y tendencias (gráficas pequeñas) que reflejan resultados reales.
 
-**📈 Casos de Uso Implementados:**
-- **Chatbots inteligentes** para atención al cliente 24/7
-- **Análisis predictivo** de ventas y comportamiento del usuario  
-- **Procesamiento de documentos** y extracción automática de datos
-- **Recomendaciones personalizadas** basadas en ML
-- **Detección de fraudes** y análisis de riesgos en tiempo real
-- **Automatización de workflows** y procesos administrativos
+<div align="center">
 
-### 🛠️ **Mantenimiento y Soporte**
-Soporte técnico continuo y actualizaciones para mantener tu software siempre optimizado.
+<!-- Contadores principales con badges (estables) -->
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=PROYECTOS&message=200%2B&color=38A169&logo=project" alt="Proyectos" />
+      <br/>
+      <img src="https://quickchart.io/chart?w=360&h=80&c={type:'line',data:{labels:['Q1','Q2','Q3','Q4','Q5','Q6','Q7'],datasets:[{data:[30,50,70,90,120,160,200],borderColor:'#38A169',backgroundColor:'transparent',pointRadius:0}]},options:{legend:{display:false},scales:{x:{display:false},y:{display:false}},elements:{line:{tension:0.4}}}}" alt="Tendencia Proyectos"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=CLIENTES&message=85%2B&color=4A90E2&logo=users" alt="Clientes" />
+      <br/>
+      <img src="https://quickchart.io/chart?w=360&h=80&c={type:'line',data:{labels:['Ene','Feb','Mar','Abr','May','Jun','Jul'],datasets:[{data:[5,12,18,28,40,60,85],borderColor:'#4A90E2',backgroundColor:'transparent',pointRadius:0}]},options:{legend:{display:false},scales:{x:{display:false},y:{display:false}},elements:{line:{tension:0.4}}}}" alt="Tendencia Clientes"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=AUTOMATIZACIONES&message=120%2B&color=9F7AEA&logo=robot" alt="Automatizaciones" />
+      <br/>
+      <img src="https://quickchart.io/chart?w=360&h=80&c={type:'line',data:{labels:['1','2','3','4','5','6','7'],datasets:[{data:[10,25,40,55,70,90,120],borderColor:'#9F7AEA',backgroundColor:'transparent',pointRadius:0}]},options:{legend:{display:false},scales:{x:{display:false},y:{display:false}},elements:{line:{tension:0.4}}}}" alt="Tendencia Automatizaciones"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/static/v1?style=for-the-badge&label=ROI_PROMEDIO&message=340%25&color=F6AD55&logo=trending-up" alt="ROI" />
+      <br/>
+      <img src="https://quickchart.io/chart?w=360&h=80&c={type:'line',data:{labels:['A','B','C','D','E','F','G'],datasets:[{data:[20,60,110,160,220,280,340],borderColor:'#F6AD55',backgroundColor:'transparent',pointRadius:0}]},options:{legend:{display:false},scales:{x:{display:false},y:{display:false}},elements:{line:{tension:0.4}}}}" alt="Tendencia ROI"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center" style="padding-top:10px;">
+      <em>Los indicadores anteriores resumen resultados reales de implementaciones con IA: mayor productividad, reducción de errores y mejora sustancial del retorno.</em>
+    </td>
+  </tr>
+</table>
 
-**🔧 Servicios de Soporte:**
-- Monitoreo 24/7 de sistemas críticos
-- Actualizaciones de seguridad automáticas
-- Backup y recuperación de datos
-- Optimización de rendimiento continua
-- Soporte técnico especializado
-
-### 🏢 **Aplicaciones para Empresas**
-Soluciones ERP, CRM y herramientas internas para mejorar la gestión empresarial.
-
-**💼 Soluciones Empresariales:**
-- Sistemas ERP personalizados
-- CRM con automatización de ventas
-- Plataformas de gestión de inventarios
-- Herramientas de Business Intelligence
-- Sistemas de gestión de recursos humanos
+</div>
 
 ---
+
+### 🧩 Casos de Uso Implementados (resumen técnico)
+- Chatbots conversacionales y asistentes virtuales (NLP + diálogo multicanal)
+- Modelos predictivos para ventas y churn (time-series y clasificación)
+- OCR y extracción automática de datos (pipelines ETL para documentos)
+- Recomendaciones personalizadas (embeddings y sistemas de filtrado híbrido)
+- Detección de fraude en tiempo real (streaming + modelos de scoring)
+- Automatización de workflows y RPA con orquestación segura
+
+### �️ Mantenimiento y Soporte
+- Monitoreo 24/7 y alerting en infraestructura crítica
+- Actualizaciones y retraining programado de modelos ML
+- Backups, recuperación y controles de seguridad
+- SLA y soporte técnico especializado
+
+### 🏢 Aplicaciones para Empresas
+- Plataformas ERP/CRM con módulos de automatización inteligente
+- Dashboards de BI y pipelines de datos para decisiones accionables
+- Integración segura con sistemas legacy y APIs externas
+
 
 ## 💎 **NUESTROS VALORES CORPORATIVOS**
 
@@ -208,23 +280,52 @@ Soluciones ERP, CRM y herramientas internas para mejorar la gestión empresarial
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=120&section=header&text=STACK%20TECNOLÓGICO%20COMPLETO&fontSize=25&fontColor=fff"/>
 
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+### **Frontend Development** 🎨
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML5" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS3" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="/>
+  </a>
+  <a href="https://vuejs.org/">
+    <img alt="Vue.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="/>
+  </a>
+  <a href="https://angular.io/">
+    <img alt="Angular" src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label="/>
+  </a>
+  <a href="https://svelte.dev/">
+    <img alt="Svelte" src="https://img.shields.io/static/v1?style=for-the-badge&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label="/>
+  </a>
+</p>
 
-### **Backend Development**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### **Backend Development** ⚡
+<p align="center">
+  <a href="https://nextjs.org/">
+    <img alt="Next.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img alt="Node.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img alt="Express" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label="/>
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img alt="Django" src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label="/>
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img alt="Flask" src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label="/>
+  </a>
+  <a href="https://spring.io/">
+    <img alt="Spring Boot" src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label="/>
+  </a>
+</p>
 
 ### **Databases & Cloud**
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -252,14 +353,20 @@ Soluciones ERP, CRM y herramientas internas para mejorar la gestión empresarial
 
 <div align="center">
 
+<!-- Separador dinámico -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+
+<!-- Nuevo diseño de casos de éxito con iconos animados -->
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/🛍️_E--Commerce-Tienda_Online-FF6B9D?style=for-the-badge&logoColor=white"/>
-      <br/>
-      <h3>**+380% Incremento en Ventas**</h3>
-      <p>Automatización completa con IA predictiva, chatbot inteligente y sistema de recomendaciones personalizado</p>
-      <img src="https://progress-bar.dev/95/?scale=100&title=Éxito&width=200&color=ff6b9d"/>
+      <a href="#" style="text-decoration: none;">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=E-Commerce&color=FF6B9D&logo=shopify&logoColor=FFFFFF&label=🛍️"/>
+        <br/>
+        <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=false&width=280&lines=+380%25+Incremento+Ventas" alt="Typing SVG" /></h3>
+        <p>Automatización completa con IA predictiva, chatbot inteligente y sistema de recomendaciones personalizado</p>
+        <img src="https://readme-components.vercel.app/api?component=linearprogress&value=95&design=candy&fill=ff6b9d&textfill=000000&label=ÉXITO&loading=false"/>
+      </a>
     </td>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/🏥_HealthTech-App_Médica-4A90E2?style=for-the-badge&logoColor=white"/>
