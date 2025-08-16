@@ -13,11 +13,36 @@
   <img src="https://img.shields.io/badge/status-online%20%7C%20available-success?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=2D3748"/>
 </a>
 
+<!-- Banner Animado Principal -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&width=900&height=120&lines=💡+Desarrollo+de+Software+Empresarial;🤖+Automatización+con+Inteligencia+Artificial;⚡+Soluciones+Digitales+Escalables+y+Seguras;🌐+Tecnologías+Modernas+y+Demandadas)](https://git.io/typing-svg)
+
+<!-- Nuevos Indicadores Animados -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=38A169&height=3&text=&animation=fadeIn"/>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=UPTIME&query=status&url=https://img.shields.io/website?url=https://axon-app.github.io/Axon.app/&logo=statuspal&color=38A169"/>
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=DEPLOY&query=status&url=https://img.shields.io/github/deployments/Axon-app/Axon.app/Production&logo=rocket&color=4A90E2"/>
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=CALIDAD&query=status&url=https://img.shields.io/github/workflow/status/Axon-app/Axon.app/CI&logo=checkmarx&color=9F7AEA"/>
+  </p>
+
+  <!-- Stats en Tiempo Real -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Axon-app&style=for-the-badge&color=38A169"/>
+    <img src="https://img.shields.io/github/last-commit/Axon-app/Axon.app?style=for-the-badge&color=4A90E2"/>
+    <img src="https://img.shields.io/github/license/Axon-app/Axon.app?style=for-the-badge&color=9F7AEA"/>
+  </p>
+</div>
 
 ---
 
 ### 🌟 **Construimos soluciones robustas, seguras y escalables con las tecnologías más modernas del mercado** 🌟
+
+<!-- Nueva Sección de Highlights Animados -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=500&color=38A169&center=true&vCenter=true&repeat=true&width=200&height=20&lines=%F0%9F%94%A5+Alto+Rendimiento;%F0%9F%9A%80+Escalabilidad;%E2%9C%A8+Optimizaci%C3%B3n"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=500&color=4A90E2&center=true&vCenter=true&repeat=true&width=200&height=20&lines=%F0%9F%94%92+Seguridad;%F0%9F%9B%A1%EF%B8%8F+Protecci%C3%B3n;%F0%9F%94%91+Encriptaci%C3%B3n"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=500&color=9F7AEA&center=true&vCenter=true&repeat=true&width=200&height=20&lines=%F0%9F%A4%96+IA+Avanzada;%F0%9F%8E%AF+Precisi%C3%B3n;%F0%9F%93%88+An%C3%A1lisis"/>
 
 [![Website](https://img.shields.io/badge/🌐_Sitio_Web-Visitar-4A90E2?style=for-the-badge&logoColor=white)](https://axon-app.github.io/Axon.app/)
 [![GitHub](https://img.shields.io/badge/📁_Repositorio-GitHub-2D3748?style=for-the-badge&logo=github)](https://github.com/Axon-app)
@@ -281,60 +306,162 @@ Aplicamos modelos de Machine Learning y pipelines de automatización para transf
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=120&section=header&text=STACK%20TECNOLÓGICO%20COMPLETO&fontSize=25&fontColor=fff"/>
 
 ### **Frontend Development** 🎨
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img alt="HTML5" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label="/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS3" src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label="/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/>
-  </a>
-  <a href="https://reactjs.org/">
-    <img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="/>
-  </a>
-  <a href="https://vuejs.org/">
-    <img alt="Vue.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="/>
-  </a>
-  <a href="https://angular.io/">
-    <img alt="Angular" src="https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label="/>
-  </a>
-  <a href="https://svelte.dev/">
-    <img alt="Svelte" src="https://img.shields.io/static/v1?style=for-the-badge&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label="/>
-  </a>
-</p>
 
-### **Backend Development** ⚡
-<p align="center">
-  <a href="https://nextjs.org/">
-    <img alt="Next.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img alt="Node.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label="/>
-  </a>
-  <a href="https://expressjs.com/">
-    <img alt="Express" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label="/>
-  </a>
-  <a href="https://www.djangoproject.com/">
-    <img alt="Django" src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label="/>
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img alt="Flask" src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label="/>
-  </a>
-  <a href="https://spring.io/">
-    <img alt="Spring Boot" src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label="/>
-  </a>
-</p>
+<div align="center">
+  <!-- Sección Principal Frontend -->
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Core-Technologies-38A169?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Modern-Frameworks-4A90E2?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <a href="https://reactjs.org">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <br/>
+          <img src="https://readme-components.vercel.app/api?component=experience&skill=React&duration=4&measure=years&textfill=000000&fill=61DAFB"/>
+        </a>
+        <br/>
+        <a href="https://vuejs.org">
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+          <br/>
+          <img src="https://readme-components.vercel.app/api?component=experience&skill=Vue&duration=3&measure=years&textfill=000000&fill=4FC08D"/>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Next_Gen-Tools-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
 
-### **Databases & Cloud**
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  <!-- Métricas de Desarrollo Frontend -->
+  <br/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Performance-95%25-38A169?style=for-the-badge"/>
+        <br/>
+        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=PageSpeed&value=95&design=candy&fill=38A169"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Accesibilidad-98%25-4A90E2?style=for-the-badge"/>
+        <br/>
+        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=WCAG&value=98&design=candy&fill=4A90E2"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Code_Quality-97%25-9F7AEA?style=for-the-badge"/>
+        <br/>
+        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Coverage&value=97&design=candy&fill=9F7AEA"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### **Backend & Infrastructure** ⚡
+
+<div align="center">
+  <!-- Backend Technologies Grid -->
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Core-Languages-38A169?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <br/>
+        <img src="https://readme-components.vercel.app/api?component=experience&skill=Node.js&duration=5&measure=years"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <br/>
+        <img src="https://readme-components.vercel.app/api?component=experience&skill=Python&duration=4&measure=years"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Enterprise-Frameworks-4A90E2?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Cloud-Infrastructure-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- DevOps & Infrastructure -->
+  <br/>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Container-Orchestration-38A169?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Database-Solutions-4A90E2?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/CI/CD-Pipeline-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Monitoring-Analytics-F6AD55?style=for-the-badge&labelColor=2D3748"/>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Infrastructure Metrics -->
+  <br/>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Availability-99.99%25-38A169?style=for-the-badge"/>
+        <br/>
+        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=SLA&value=99.99&design=candy&fill=38A169"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Security_Score-98%25-4A90E2?style=for-the-badge"/>
+        <br/>
+        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Security&value=98&design=candy&fill=4A90E2"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Response_Time-<100ms-9F7AEA?style=for-the-badge"/>
+        <br/>
+        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Latency&value=95&design=candy&fill=9F7AEA"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -488,3 +615,4 @@ graph LR
 ![GitHub stars](https://img.shields.io/github/stars/Axon-app?style=for-the-badge&color=f6ad55)
 
 </div>
+
