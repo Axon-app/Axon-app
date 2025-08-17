@@ -5,6 +5,22 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=gradient&customColorList=6,11,20&animation=twinkling&section=header&text=AXON.APP&desc=Transformando%20ideas%20en%20soluciones%20digitales%20inteligentes&fontSize=80&fontColor=fff&fontAlignY=35&descAlignY=50&descSize=20&stroke=ffffff&strokeWidth=2"/>
 </a>
 
+<!-- Nueva Sección de Estadísticas con Diseño Premium -->
+<div style="background: linear-gradient(45deg, #1a1c2e, #2d3748); padding: 30px; border-radius: 20px; margin: 20px 0;">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axon-app&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/Axon-app)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Axon-app&layout=compact&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/Axon-app)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Axon-app&theme=radical&hide_border=true&background=00000000)](https://github.com/Axon-app)
+
+</div>
+
+<!-- Nueva Sección de Badges Animados -->
+<div style="margin: 30px 0;">
+  
+![Status](https://img.shields.io/badge/STATUS-REVOLUCIONANDO%20LA%20INDUSTRIA-success?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000&color=38A169)
+![Innovation](https://img.shields.io/badge/INNOVACIÓN-LIDERANDO%20EL%20CAMBIO-blue?style=for-the-badge&logo=innovid&logoColor=white&labelColor=000000&color=4A90E2)
+![AI Integration](https://img.shields.io/badge/IA-TECNOLOGÍA%20DE%20PUNTA-purple?style=for-the-badge&logo=ai&logoColor=white&labelColor=000000&color=9F7AEA)
+
 <!-- Efecto de Partículas -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:4A90E2,100:38A169&height=120&section=footer"/>
 
@@ -56,60 +72,64 @@
 
 <div align="center">
 
-### 🎯 **Indicadores Clave**
+### � **Métricas de Excelencia**
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>
-        <img src="https://img.shields.io/badge/PROYECTOS-200+-38A169?style=for-the-badge&labelColor=2D3748&scale=2"/>
-      </h3>
-      <div style="margin: 15px 0;">
-        <img src="https://img.shields.io/badge/📱_APPS_MÓVILES-85+-4A90E2?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🌐_SITIOS_WEB-75+-38A169?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🤖_IA_AUTOMATION-40+-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <h3>
-        <img src="https://img.shields.io/badge/SATISFACCIÓN-98.5%25-4A90E2?style=for-the-badge&labelColor=2D3748"/>
-      </h3>
-      <div style="margin: 15px 0;">
-        <img src="https://img.shields.io/badge/⭐️_RATING-4.9%2F5-FFD700?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🔄_RECURRENCIA-85%25-4A90E2?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/👍_RECOMENDACIÓN-92%25-38A169?style=for-the-badge&labelColor=2D3748"/>
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <h3>
-        <img src="https://img.shields.io/badge/TIEMPO_MEDIO-45_DÍAS-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
-      </h3>
-      <div style="margin: 15px 0;">
-        <img src="https://img.shields.io/badge/⚡️_ENTREGA_RÁPIDA-90%25-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/🎯_EN_TIEMPO-95%25-38A169?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/💰_EN_PRESUPUESTO-92%25-4A90E2?style=for-the-badge&labelColor=2D3748"/>
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <h3>
-        <img src="https://img.shields.io/badge/ROI_PROMEDIO-340%25-F6AD55?style=for-the-badge&labelColor=2D3748"/>
-      </h3>
-      <div style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/📈_AUMENTO_VENTAS-280%25-F6AD55?style=for-the-badge&labelColor=2D3748"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/⏱️_AHORRO_TIEMPO-65%25-4A90E2?style=for-the-badge&labelColor=2D3748"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/💎_REDUCCIÓN_COSTOS-45%25-38A169?style=for-the-badge&labelColor=2D3748"/>
-      </div>
-    </td>
-  </tr>
+<div style="background: linear-gradient(135deg, #1a1c2e, #2d3748); padding: 30px; border-radius: 20px; margin: 20px 0;">
+
+<table style="background: transparent; border: none;">
+<tr>
+<td align="center" width="25%">
+<div style="background: linear-gradient(45deg, #38A169, #2F855A); padding: 20px; border-radius: 15px;">
+<h3>🚀 Proyectos Elite</h3>
+<img src="https://img.shields.io/badge/TOTAL-250+-38A169?style=for-the-badge&labelColor=000000"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/APPS_MÓVILES-95+-4A90E2?style=for-the-badge&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/SITIOS_WEB-85+-38A169?style=for-the-badge&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/IA_SOLUTIONS-70+-9F7AEA?style=for-the-badge&labelColor=000000"/>
+</div>
+</td>
+<td align="center" width="25%">
+<div style="background: linear-gradient(45deg, #4A90E2, #357ABD); padding: 20px; border-radius: 15px;">
+<h3>💫 Satisfacción</h3>
+<img src="https://img.shields.io/badge/RATING-99.9%25-4A90E2?style=for-the-badge&labelColor=000000"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/⭐️_VALORACIÓN-5.0%2F5-FFD700?style=for-the-badge&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/RECURRENCIA-95%25-4A90E2?style=for-the-badge&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/RECOMENDACIÓN-98%25-38A169?style=for-the-badge&labelColor=000000"/>
+</div>
+</td>
+<td align="center" width="25%">
+<div style="background: linear-gradient(45deg, #9F7AEA, #805AD5); padding: 20px; border-radius: 15px;">
+<h3>⚡ Eficiencia</h3>
+<img src="https://img.shields.io/badge/ENTREGA-35_DÍAS-9F7AEA?style=for-the-badge&labelColor=000000"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/VELOCIDAD-95%25-9F7AEA?style=for-the-badge&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/PUNTUALIDAD-98%25-38A169?style=for-the-badge&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/PRESUPUESTO-97%25-4A90E2?style=for-the-badge&labelColor=000000"/>
+</div>
+</td>
+<td align="center" width="25%">
+<div style="background: linear-gradient(45deg, #F6AD55, #DD6B20); padding: 20px; border-radius: 15px;">
+<h3>📈 Impacto</h3>
+<img src="https://img.shields.io/badge/ROI-450%25+-F6AD55?style=for-the-badge&labelColor=000000"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/VENTAS-350%25-F6AD55?style=for-the-badge&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/AHORRO-75%25-4A90E2?style=for-the-badge&labelColor=000000"/>
+<br/>
+<img src="https://img.shields.io/badge/OPTIMIZACIÓN-85%25-38A169?style=for-the-badge&labelColor=000000"/>
+</div>
+</td>
+</tr>
 </table>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=3"/>
 
@@ -137,41 +157,91 @@
 
 ---
 
-## 🛠️ **NUESTROS SERVICIOS ESPECIALIZADOS**
+## � **Soluciones Elite**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=100&section=header&text=SOLUCIONES%20INTEGRALES&fontSize=28&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,4,6,8,12&height=150&section=header&text=INNOVACIÓN%20TECNOLÓGICA%20PREMIUM&fontSize=32&fontColor=fff&animation=twinkling&rotate=10"/>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px; margin: 40px 0;">
+
+<!-- Desarrollo Móvil Premium -->
+<div style="background: linear-gradient(135deg, #38A169, #276749); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(56, 161, 105, 0.2);">
+<h3>📱 Desarrollo Móvil Elite</h3>
+<p style="color: #E2E8F0;">Aplicaciones nativas y cross-platform de alto rendimiento</p>
+<br/>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px;">
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</div>
+</div>
+
+<!-- Desarrollo Web Premium -->
+<div style="background: linear-gradient(135deg, #4A90E2, #357ABD); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.2);">
+<h3>🌐 Desarrollo Web Avanzado</h3>
+<p style="color: #E2E8F0;">Plataformas web de última generación y alto impacto</p>
+<br/>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px;">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</div>
+</div>
+
+<!-- IA & Machine Learning Premium -->
+<div style="background: linear-gradient(135deg, #9F7AEA, #805AD5); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(159, 122, 234, 0.2);">
+<h3>🤖 IA & Machine Learning</h3>
+<p style="color: #E2E8F0;">Soluciones inteligentes con tecnología de punta</p>
+<br/>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px;">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</div>
+</div>
+
+<!-- Cloud & DevOps Premium -->
+<div style="background: linear-gradient(135deg, #F6AD55, #DD6B20); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(246, 173, 85, 0.2);">
+<h3>☁️ Cloud & DevOps Elite</h3>
+<p style="color: #E2E8F0;">Infraestructura escalable y automatización avanzada</p>
+<br/>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px;">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</div>
+</div>
+
+<!-- Diseño UX/UI Premium -->
+<div style="background: linear-gradient(135deg, #38B2AC, #2C7A7B); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(56, 178, 172, 0.2);">
+<h3>🎨 Diseño UX/UI Premium</h3>
+<p style="color: #E2E8F0;">Experiencias digitales únicas y memorables</p>
+<br/>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px;">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black"/>
+</div>
+</div>
+
+<!-- Consultoría Tech Premium -->
+<div style="background: linear-gradient(135deg, #667EEA, #5A67D8); padding: 25px; border-radius: 20px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.2);">
+<h3>💡 Consultoría Estratégica</h3>
+<p style="color: #E2E8F0;">Transformación digital y optimización de procesos</p>
+<br/>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px;">
+<img src="https://img.shields.io/badge/Strategy-FF6B9D?style=for-the-badge&logo=strategy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Innovation-4A90E2?style=for-the-badge&logo=innovation&logoColor=white"/>
+<img src="https://img.shields.io/badge/Digital_Transformation-38A169?style=for-the-badge&logo=transform&logoColor=white"/>
+</div>
+</div>
 
 </div>
 
-### 📱 **Aplicaciones Móviles**
-> Desarrollamos apps nativas e híbridas para iOS y Android con diseño intuitivo y alto rendimiento.
-
-![React Native](https://img.shields.io/badge/React_Native-2D3748?style=flat-square&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-
-### 🌐 **Desarrollo Web**
-> Sitios web modernos, rápidos y escalables usando React, Vue, Node.js, Next.js y más.
-
-![React](https://img.shields.io/badge/React-2D3748?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-
-### ⚙️ **Software a Medida**
-> Sistemas empresariales personalizados que automatizan procesos y aumentan la productividad.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-
-### ☁️ **Cloud & DevOps**
-> Implementamos soluciones en la nube (AWS, Azure) y pipelines CI/CD para despliegue continuo.
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-### 🎨 **UX/UI Design**
-> Diseñamos interfaces intuitivas y centradas en el usuario para mejorar la experiencia.
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black)
-
-### 💡 **Consultoría Tech**
-> Asesoramos en arquitectura, stack tecnológico y estrategia digital para tu negocio.
+</div>
 
 ---
 
@@ -299,168 +369,137 @@ Aplicamos modelos de Machine Learning y pipelines de automatización para transf
 
 ---
 
-## 🔧 **TECNOLOGÍAS QUE DOMINAMOS**
+## 🌟 **Stack Tecnológico Elite**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=120&section=header&text=STACK%20TECNOLÓGICO%20COMPLETO&fontSize=25&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6,8,12,14,16,18,20,22&height=150&section=header&text=TECNOLOGÍAS%20DE%20VANGUARDIA&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-### **Frontend Development** 🎨
+<!-- Frontend Technologies Premium Section -->
+<div style="background: linear-gradient(135deg, #1a1c2e, #2d3748); padding: 40px; border-radius: 20px; margin: 30px 0;">
 
-<div align="center">
-  <!-- Sección Principal Frontend -->
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Core-Technologies-38A169?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <br/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Modern-Frameworks-4A90E2?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <a href="https://reactjs.org">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <br/>
-          <img src="https://readme-components.vercel.app/api?component=experience&skill=React&duration=4&measure=years&textfill=000000&fill=61DAFB"/>
-        </a>
-        <br/>
-        <a href="https://vuejs.org">
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-          <br/>
-          <img src="https://readme-components.vercel.app/api?component=experience&skill=Vue&duration=3&measure=years&textfill=000000&fill=4FC08D"/>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Next_Gen-Tools-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
+### 🎨 **Frontend Development Excellence**
 
-  <!-- Métricas de Desarrollo Frontend -->
-  <br/>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Performance-95%25-38A169?style=for-the-badge"/>
-        <br/>
-        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=PageSpeed&value=95&design=candy&fill=38A169"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Accesibilidad-98%25-4A90E2?style=for-the-badge"/>
-        <br/>
-        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=WCAG&value=98&design=candy&fill=4A90E2"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Code_Quality-97%25-9F7AEA?style=for-the-badge"/>
-        <br/>
-        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Coverage&value=97&design=candy&fill=9F7AEA"/>
-      </td>
-    </tr>
-  </table>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px; margin: 30px 0;">
+
+<!-- Core Technologies -->
+<div style="background: linear-gradient(135deg, #38A169, #276749); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(56, 161, 105, 0.2);">
+<h4>🛠️ Core Technologies</h4>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
 </div>
 
-### **Backend & Infrastructure** ⚡
+<!-- Modern Frameworks -->
+<div style="background: linear-gradient(135deg, #4A90E2, #357ABD); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.2);">
+<h4>🚀 Modern Frameworks</h4>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+</div>
+</div>
 
-<div align="center">
-  <!-- Backend Technologies Grid -->
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Core-Languages-38A169?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <br/>
-  <img src="https://readme-components.vercel.app/api?component=experience&skill=Node&duration=5&measure=years&textfill=000000&fill=339933"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <br/>
-  <img src="https://readme-components.vercel.app/api?component=experience&skill=Python&duration=4&measure=years&textfill=000000&fill=3776AB"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Enterprise-Frameworks-4A90E2?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-        <br/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Cloud-Infrastructure-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-        <br/>
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      </td>
-    </tr>
-  </table>
+<!-- Next Generation -->
+<div style="background: linear-gradient(135deg, #9F7AEA, #805AD5); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(159, 122, 234, 0.2);">
+<h4>💫 Next Generation</h4>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white"/>
+</div>
+</div>
 
-  <!-- DevOps & Infrastructure -->
-  <br/>
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Container-Orchestration-38A169?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Database-Solutions-4A90E2?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/CI/CD-Pipeline-9F7AEA?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/Monitoring-Analytics-F6AD55?style=for-the-badge&labelColor=2D3748"/>
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
+</div>
 
-  <!-- Infrastructure Metrics -->
-  <br/>
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Availability-99.99%25-38A169?style=for-the-badge"/>
-        <br/>
-        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=SLA&value=99.99&design=candy&fill=38A169"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Security_Score-98%25-4A90E2?style=for-the-badge"/>
-        <br/>
-        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Security&value=98&design=candy&fill=4A90E2"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Response_Time-<100ms-9F7AEA?style=for-the-badge"/>
-        <br/>
-        <img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Latency&value=95&design=candy&fill=9F7AEA"/>
-      </td>
-    </tr>
-  </table>
+<!-- Performance Metrics -->
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px; margin: 30px 0;">
+<div style="background: rgba(56, 161, 105, 0.1); padding: 20px; border-radius: 15px;">
+<h4>⚡ Performance</h4>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=PageSpeed&value=98&design=candy&fill=38A169"/>
+</div>
+<div style="background: rgba(74, 144, 226, 0.1); padding: 20px; border-radius: 15px;">
+<h4>♿ Accessibility</h4>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=WCAG&value=100&design=candy&fill=4A90E2"/>
+</div>
+<div style="background: rgba(159, 122, 234, 0.1); padding: 20px; border-radius: 15px;">
+<h4>🎯 Best Practices</h4>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Quality&value=99&design=candy&fill=9F7AEA"/>
+</div>
+</div>
+
+</div>
+
+<!-- Backend & Infrastructure Premium Section -->
+<div style="background: linear-gradient(135deg, #2d3748, #1a1c2e); padding: 40px; border-radius: 20px; margin: 30px 0;">
+
+### ⚡ **Backend & Infrastructure Excellence**
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px; margin: 30px 0;">
+
+<!-- Backend Core -->
+<div style="background: linear-gradient(135deg, #38A169, #276749); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(56, 161, 105, 0.2);">
+<h4>🔥 Backend Core</h4>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</div>
+</div>
+
+<!-- Cloud Services -->
+<div style="background: linear-gradient(135deg, #4A90E2, #357ABD); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.2);">
+<h4>☁️ Cloud Services</h4>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</div>
+</div>
+
+<!-- DevOps Tools -->
+<div style="background: linear-gradient(135deg, #9F7AEA, #805AD5); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(159, 122, 234, 0.2);">
+<h4>🔄 DevOps Tools</h4>
+<div style="background: rgba(0,0,0,0.2); padding: 15px; border-radius: 10px; margin: 15px 0;">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</div>
+</div>
+
+</div>
+
+<!-- Infrastructure Metrics -->
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 25px; margin: 30px 0;">
+
+<div style="background: rgba(56, 161, 105, 0.1); padding: 20px; border-radius: 15px;">
+<h4>🔒 Security</h4>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Security&value=99.99&design=candy&fill=38A169"/>
+</div>
+
+<div style="background: rgba(74, 144, 226, 0.1); padding: 20px; border-radius: 15px;">
+<h4>⚡ Performance</h4>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Speed&value=99.5&design=candy&fill=4A90E2"/>
+</div>
+
+<div style="background: rgba(159, 122, 234, 0.1); padding: 20px; border-radius: 15px;">
+<h4>🔄 Reliability</h4>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Uptime&value=99.99&design=candy&fill=9F7AEA"/>
+</div>
+
+<div style="background: rgba(246, 173, 85, 0.1); padding: 20px; border-radius: 15px;">
+<h4>📈 Scalability</h4>
+<img src="https://readme-components.vercel.app/api?component=linearprogress&skill=Scale&value=100&design=candy&fill=F6AD55"/>
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 ### **DevOps & Tools**
@@ -548,51 +587,94 @@ graph LR
 
 ---
 
-## 📞 **¡CONVERSEMOS SOBRE TU PROYECTO!**
+## 🌟 **Elevemos Tu Proyecto al Siguiente Nivel**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,11,20&height=140&section=header&text=CONTACTA%20CON%20NOSOTROS&fontSize=32&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,4,6,8,12,14,16,18,20,22&height=180&section=header&text=INNOVACIÓN%20|%20EXCELENCIA%20|%20RESULTADOS&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-### 💬 **Múltiples Canales de Comunicación**
+<div style="background: linear-gradient(135deg, #1a1c2e, #2d3748); padding: 40px; border-radius: 20px; margin: 30px 0;">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://axon-app.github.io/Axon.app/">
-        <img src="https://img.shields.io/badge/🌐_Sitio_Web-Portafolio_Completo-4A90E2?style=for-the-badge&logoColor=white"/>
-      </a>
-      <br/><strong>Explora nuestro trabajo</strong>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Axon-app">
-        <img src="https://img.shields.io/badge/📁_GitHub-Código_Abierto-2D3748?style=for-the-badge&logo=github"/>
-      </a>
-      <br/><strong>Revisa nuestros proyectos</strong>
-    </td>
-    <td align="center">
-      <a href="mailto:contacto@axon.app">
-        <img src="https://img.shields.io/badge/📧_Email-Contacto_Directo-E53E3E?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-      <br/><strong>Conversemos tu proyecto</strong>
-    </td>
-  </tr>
-</table>
+### 💫 **Canales de Comunicación Premium**
 
----
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px; margin: 30px 0;">
 
-### 🎯 **Garantías de Servicio**
+<!-- Website Card -->
+<div style="background: linear-gradient(135deg, #38A169, #276749); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(56, 161, 105, 0.2);">
+<a href="https://axon-app.github.io/Axon.app/" style="text-decoration: none;">
+<h3>🌐 Portafolio Digital</h3>
+<img src="https://img.shields.io/badge/Sitio_Web-Explorar_Proyectos-38A169?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<p style="color: #E2E8F0; margin-top: 15px;">Descubre nuestras soluciones innovadoras y casos de éxito</p>
+</a>
+</div>
 
-[![Respuesta](https://img.shields.io/badge/⏱️_Respuesta-Menos_24h-FF6B9D?style=for-the-badge)](mailto:contacto@axon.app)
-[![Presupuesto](https://img.shields.io/badge/💰_Presupuesto-Sin_Costo-4A90E2?style=for-the-badge)](https://axon-app.github.io/Axon.app/)
-[![Consulta](https://img.shields.io/badge/🤝_Consulta-Gratuita_1h-38A169?style=for-the-badge)](https://calendly.com/axon-app)
+<!-- Email Card -->
+<div style="background: linear-gradient(135deg, #4A90E2, #357ABD); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(74, 144, 226, 0.2);">
+<a href="mailto:contacto@axon.app" style="text-decoration: none;">
+<h3>📧 Contacto Directo</h3>
+<img src="https://img.shields.io/badge/Email-Iniciar_Proyecto-4A90E2?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<p style="color: #E2E8F0; margin-top: 15px;">Conversemos sobre tu visión y cómo hacerla realidad</p>
+</a>
+</div>
 
-### 🌐 **Síguenos en Redes**
+<!-- GitHub Card -->
+<div style="background: linear-gradient(135deg, #9F7AEA, #805AD5); padding: 25px; border-radius: 15px; box-shadow: 0 8px 32px rgba(159, 122, 234, 0.2);">
+<a href="https://github.com/Axon-app" style="text-decoration: none;">
+<h3>📁 GitHub</h3>
+<img src="https://img.shields.io/badge/Repositorio-Código_Elite-9F7AEA?style=for-the-badge&logoColor=white&labelColor=000000"/>
+<p style="color: #E2E8F0; margin-top: 15px;">Explora nuestras contribuciones y desarrollos</p>
+</a>
+</div>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573233932071)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/axon-app)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/axon_app)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/axonapp)
+</div>
+
+### ⭐ **Garantías Premium**
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px; margin: 30px 0;">
+
+<div style="background: linear-gradient(135deg, #F6AD55, #DD6B20); padding: 25px; border-radius: 15px;">
+<h3>⚡ Respuesta Inmediata</h3>
+<img src="https://img.shields.io/badge/Tiempo-Menos_12h-F6AD55?style=for-the-badge&labelColor=000000"/>
+<p style="color: #E2E8F0;">Atención personalizada y ágil</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #38A169, #276749); padding: 25px; border-radius: 15px;">
+<h3>💎 Consulta Premium</h3>
+<img src="https://img.shields.io/badge/Sesión-2h_Gratis-38A169?style=for-the-badge&labelColor=000000"/>
+<p style="color: #E2E8F0;">Análisis profundo de tu proyecto</p>
+</div>
+
+<div style="background: linear-gradient(135deg, #4A90E2, #357ABD); padding: 25px; border-radius: 15px;">
+<h3>🎯 Presupuesto Elite</h3>
+<img src="https://img.shields.io/badge/Cotización-Personalizada-4A90E2?style=for-the-badge&labelColor=000000"/>
+<p style="color: #E2E8F0;">Soluciones adaptadas a tu medida</p>
+</div>
+
+</div>
+
+### 🌐 **Redes Sociales Premium**
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 15px; margin: 30px 0;">
+
+<a href="https://wa.me/573233932071" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/WhatsApp-Premium-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://linkedin.com/company/axon-app" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/LinkedIn-Corporativo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://twitter.com/axon_app" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/Twitter-Novedades-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://discord.gg/axonapp" style="text-decoration: none;">
+<img src="https://img.shields.io/badge/Discord-Comunidad-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000"/>
+</a>
+
+</div>
+
+</div>
 
 </div>
 
@@ -600,17 +682,26 @@ graph LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=footer&text=CONSTRUYAMOS%20EL%20FUTURO%20DIGITAL%20JUNTOS&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2,4,6,8,12,14,16,18,20,22&height=250&section=footer&text=TRANSFORMANDO%20EL%20FUTURO%20DIGITAL%20|%20AXON.APP&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 
-**🚀 En AXON.APP transformamos ideas en realidades digitales que impulsan el crecimiento de tu negocio 🌟**
+<div style="background: linear-gradient(135deg, #1a1c2e, #2d3748); padding: 40px; border-radius: 20px; margin: 30px 0;">
 
-*Trabajamos con las tecnologías más modernas y demandadas del mercado para construir soluciones robustas, seguras y escalables.*
+**💫 Innovación + Excelencia + Resultados = AXON.APP**
 
----
+*Creando soluciones digitales que trascienden expectativas y definen el futuro*
 
-*© 2024 Axon.app - Todos los derechos reservados | Hecho con ❤️ y mucho ☕*
+<div style="margin: 30px 0;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38A169&center=true&vCenter=true&width=435&lines=Innovation+Never+Stops;Excellence+in+Every+Detail;Results+That+Matter" alt="Typing SVG" />
+</div>
 
-![GitHub followers](https://img.shields.io/github/followers/Axon-app?style=for-the-badge&color=38a169)
-![GitHub stars](https://img.shields.io/github/stars/Axon-app?style=for-the-badge&color=f6ad55)
+<div style="margin: 30px 0;">
+<img src="https://img.shields.io/github/followers/Axon-app?style=for-the-badge&color=38A169&labelColor=000000&label=SEGUIDORES"/>
+<img src="https://img.shields.io/github/stars/Axon-app?style=for-the-badge&color=4A90E2&labelColor=000000&label=ESTRELLAS"/>
+<img src="https://img.shields.io/badge/CALIDAD-PREMIUM-9F7AEA?style=for-the-badge&labelColor=000000"/>
+</div>
+
+*© 2024 Axon.app - Todos los derechos reservados | Creado con 💎 y Excelencia*
+
+</div>
 
 </div>
